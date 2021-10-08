@@ -1,0 +1,28 @@
+{
+  "name": "facebookbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.0.2",
+    "playwright-chromium": "^1.12.3"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.12.3",
+    "excel4node": "^1.7.2",
+    "fs": "0.0.1-security",
+    "msexcel-builder": "0.0.2",
+    "playwright-test": "^7.0.2",
+    "xlsx": "^0.17.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "description": ""
+}
